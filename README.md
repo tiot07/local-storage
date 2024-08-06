@@ -49,7 +49,6 @@
     - [BOS-05: Builder なら API で Amazon Bedrock を使ってみよう！超簡単 API コールの手ほどき](https://pages.awscloud.com/rs/112-TZM-766/images/BOS-05_AWS-Builders-Online-Series_2024-Q3_Presentation-Deck_generative-AI-2.pdf)
     - [BOS-06: 明日からすぐに使える自分で作る生成 AI アプリケーション〜Chat with your document〜](https://pages.awscloud.com/rs/112-TZM-766/images/BOS-06_AWS-Builders-Online-Series_2024-Q3_Presentation-Deck_generative-AI-3.pdf)
     - [BOS-07: 業務で利用できる生成 AI ソリューションのデプロイと、実装を一緒に覗いてみよう](https://pages.awscloud.com/rs/112-TZM-766/images/BOS-07_AWS-Builders-Online-Series_2024-Q3_Presentation-Deck_generative-AI-4.pdf)
-    - https://dev.classmethod.jp/articles/cfn-s3-webhosting-cloudfront/
   - GenU（AWS公式、生成AIのユースケースを簡単に試せるアプリケーションコード）
     - https://github.com/aws-samples/generative-ai-use-cases-jp
   - BedRock、APIGateway、Lambda、Amplifyを使ったwebアプリ実装ワークショップ
